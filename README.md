@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.linkedin.com/in/lrrimulo/overlay/background-photo/" 
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGAy7zRZRIqiQ/profile-displaybackgroundimage-shrink_350_1400/B4DZ07BEyEJQAY-/0/1774811632268?e=1776902400&v=beta&t=pd94PXBzQK0KT0ZsmwZqZCw407SQztPZC-UC_agfJeA" 
        width="800" height="300" 
        alt="Leandro Rímulo - Analytics Engineer"/>
 </div>
