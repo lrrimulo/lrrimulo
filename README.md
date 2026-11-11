@@ -1,19 +1,15 @@
 <div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGAy7zRZRIqiQ/profile-displaybackgroundimage-shrink_350_1400/B4DZ07BEyEJQAY-/0/1774811632268?e=1776902400&v=beta&t=pd94PXBzQK0KT0ZsmwZqZCw407SQztPZC-UC_agfJeA" 
-       width="800" height="300" 
-       alt="Leandro Rímulo - Analytics Engineer"/>
+  <img src="banner.png"
+       width="800" height="300"
+       alt="Leandro Rímulo - Data Scientist"/>
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/lrrimulo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?
-style=for-the-badge&logo=linkedin&logoColor=white" 
-         alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/leandrorimulo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:leandro.rimulo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?
-style=for-the-badge&logo=gmail&logoColor=white" 
-         alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
@@ -21,31 +17,27 @@ style=for-the-badge&logo=gmail&logoColor=white"
 
 <h1 align="center">
   Hi, I'm Leandro Rímulo!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
-       width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <p align="center">
-  <strong>Analytics Engineer | Computational Physicist | 
-  Healthcare Data Specialist</strong><br/>
-  PhD in Astronomy → building data pipelines that actually 
-  ship to production.
+  <strong>Data Scientist | Computational Physicist | Bayesian Inference & Uncertainty Quantification</strong><br/>
+  PhD in Astronomy → turning messy, uncertain problems into models I can test and explain.
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🌍 Brazilian living in Colombia, eligible to work in 
-  **LATAM and the EU** (Italian passport)
-- 🔭 Former astrophysicist: 15+ years of quantitative 
-  modeling, Bayesian inference, and large-scale 
-  data analysis
-- 🏥 Currently building **MRI scheduling optimization 
-  pipelines** at XRDOSE, deployed at Colombian hospitals
-- 🎯 Transitioning from academia to industry with a focus 
-  on **Analytics Engineering** and **Data Engineering**
-- 🌐 Fluent in Portuguese, English, and Spanish
+- 🌍 Brazilian and Italian citizen, living in Colombia (UTC−5, US-timezone aligned, remote)
+- 🔭 Former astrophysicist: Bayesian inference, MCMC, Monte Carlo methods and
+  time-series modelling of noisy observational data
+- 🤖 Recently: designed adversarial physics/maths tasks to evaluate a frontier LLM's
+  reasoning (Turing, contract, 2026)
+- 🏥 Built MRI-utilisation analytics for a health-tech startup's pre-deployment product
+  (unpaid, 2025–2026)
+- 🎯 Moving into industry with a focus on **forecasting, risk and statistical modelling**
+- 🌐 Portuguese (native), English and Spanish (fluent)
 
 ---
 
@@ -53,113 +45,105 @@ style=for-the-badge&logo=gmail&logoColor=white"
 
 **Languages & Querying**
 
-![Python](https://img.shields.io/badge/Python-3776AB?
-style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?
-style=for-the-badge&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?
-style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-**Cloud & Infrastructure**
+**Scientific Python**
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?
-style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?
-style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?
-style=for-the-badge&logo=linux&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Data & Analytics**
+**Methods:** Bayesian inference · MCMC (emcee) · Monte Carlo methods · uncertainty
+quantification · time-series modelling · statistical quality control (control charts, R&R, ANOVA)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?
-style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?
-style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?
-style=for-the-badge&logo=jupyter&logoColor=white)
+**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Coming soon:** dbt · Apache Airflow · PySpark
+**Developing now:** machine learning foundations · PyTorch · cloud deployment
 
 ---
 
-### 📊 Featured Projects
+### 📊 Featured Work
 
-#### 🏥 MRI Scheduling Optimization System
-**[XRDOSE — deployed at Clínica Imbanaco, Cali, Colombia]**
+#### 🪐 orbital-time-game
+**[Personal project · public repository: https://github.com/lrrimulo/orbital-time-game]**
 
-> ETL pipeline and analytics dashboard for hospital 
-> resource management
+> Orbital-mechanics game built on Monte Carlo sampling
 
-- **Problem:** MRI machines in Colombian hospitals have 
-  significant scheduling inefficiencies, with idle time 
-  difficult to quantify or act on
-- **Solution:** Built end-to-end data pipeline ingesting 
-  raw clinical logs, transforming scheduling data, and 
-  delivering interactive heatmap visualizations
-- **Technologies:** C#, ASP.NET Core, Azure SQL, 
-  ECharts, Git
-- **Impact:** Production-ready tool deployed at 
-  Clínica Imbanaco and Clínica Sommer Medellín, 
-  enabling data-driven scheduling decisions for 
-  operations teams
-- **Key feature:** "Opportunity Counter" — calculates 
-  recoverable study capacity from historical idle time
+- **Problem:** Given a work-day schedule, find two Keplerian orbits (vessel and home ship) around a
+  planet of unknown density such that the ships dock at the end of the day and the planet hides
+  one from the other, as a communication shadow, exactly during the silence intervals.
+- **Approach:** My own derivations (orbits, shadow condition, priors), corrected after review.
+  Docking is solved exactly as a two-dimensional Lambert problem. Each mode is refined to its
+  maximum-posterior point, then sampled with emcee, and I pick the solution on a slider. Code
+  written with an AI assistant (Claude), reviewed by me.
+- **Technologies:** Python, NumPy, SciPy, Matplotlib, emcee
+- **Known issues (documented):** the log-uniform density prior favours low-density planets; for
+  short station blocks on such planets, MC2 often finds no junky-station orbit.
 
 ---
 
-#### 📐 Automated Calibration Data Quality System
-**[SENA ISO 17025 Laboratory, Medellín 2024]**
-
-> Python automation for metrology and statistical 
-> quality control
-
-- **Problem:** Manual validation of calibration 
-  measurements was time-consuming and error-prone
-- **Solution:** Automated pipeline for measurement 
-  validation, uncertainty quantification, and 
-  statistical reporting
-- **Technologies:** Python (pandas, numpy, matplotlib), 
-  Monte Carlo simulation, Bayesian inference, 
-  ANOVA, R&R studies
-- **Impact:** Significant reduction in manual processing 
-  time; improved audit readiness for ISO 17025 
-  accreditation
-
----
-
-#### 🌌 Astrophysical Data Modeling (PhD Research)
+#### 🌌 Bayesian Modelling of Be-Star Disks (PhD Research)
 **[Universidade de São Paulo, 2011–2017]**
 
-> Large-scale statistical modeling of stellar evolution
+> Inferring physical parameters from multi-year time series, with full uncertainties
 
-- **Problem:** Modeling Be star disk evolution required 
-  processing decades of multi-wavelength observational 
-  data with significant noise and uncertainty
-- **Solution:** Custom Python pipelines using MCMC 
-  (Markov Chain Monte Carlo) Bayesian inference 
-  for parameter estimation across massive datasets
-- **Technologies:** Python, Fortran, HPC cluster 
-  computing, statistical inference, 
-  scientific visualization
-- **Impact:** 5 peer-reviewed publications in 
-  international astronomy journals; 
-  methodology transferable to any 
-  large-scale data modeling problem
+- **Problem:** The disks of Be stars form and dissipate over years; two key physical
+  parameters (angular momentum lost through the disk, disk viscosity) were not
+  available for a statistically significant sample
+- **Solution:** Automated Python pipeline fitting physical models to multi-year photometric
+  time series of 54 stars with MCMC (emcee), against synthetic observables from
+  hydrodynamic simulations coupled to Monte Carlo radiative transfer
+- **Technologies:** Python, emcee, Fortran, IDL, Monte Carlo radiative transfer (HDUST)
+- **Result:** both parameters recovered for 54 stars, the first statistically significant
+  sample. First author, MNRAS 2018; co-author on three further journal papers and one
+  IAU proceedings
+
+---
+
+#### 🏥 MRI-Utilisation Analytics
+**[XRDOSE, Colombian health-tech · unpaid collaborator, 2025–2026 · pre-deployment]**
+
+> Utilisation analytics for MRI scanners, from DICOM-derived exam data
+
+- **Problem:** Idle scanner time is hard to see and harder to act on
+- **Solution:** Interactive heatmaps (occupancy per 10-minute cell, time to next exam,
+  available capacity) and a probability-of-fit view: the empirical probability that a
+  set of exam durations fits a time window, from historical idle-gap distributions.
+  Built on ~26 weeks of data from a two-site, five-scanner clinic
+- **Technologies:** Python (prototyping), C#, ASP.NET Web Forms, SQL Server, ECharts
+- **Status:** demo stage, not deployed. Code and data belong to the company and are not
+  public
+
+---
+
+#### 📐 Calibration Data Quality Control
+**[SENA ISO 17025 Laboratory, Medellín, 2024]**
+
+> Python tools for metrology and statistical quality control
+
+- **Problem:** Calibration measurements needed validation, traceability and
+  uncertainty statements for ISO 17025
+- **Solution:** Python tools for measurement data validation, control charts, R&R studies,
+  ANOVA, measurement uncertainty and automated traceability checks
+- **Technologies:** Python (pandas, NumPy, Matplotlib)
 
 ---
 
 ### 📈 Currently Learning
 
-- **dbt** (data build tool) — Analytics Engineering core
-- **Apache Airflow** — pipeline orchestration
-- **Python OOP** — production-grade code structure
-- **Star Schema & Data Warehouse design**
+- **Forecast validation:** walk-forward backtesting, prediction-interval calibration
+- **Experimental design & causal inference:** A/B testing, difference-in-differences
+- **Machine learning foundations & PyTorch**
 
 ---
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/lrrimulo](https://www.linkedin.com/in/lrrimulo/)
+- **LinkedIn:** [linkedin.com/in/leandrorimulo](https://www.linkedin.com/in/leandrorimulo/)
 - **Email:** leandro.rimulo@gmail.com
 - **Location:** Colombia (remote-first)
 
@@ -167,8 +151,6 @@ style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 💬 A Note
 
-*"The skills that let you model a collapsing stellar disk 
-or extract signal from noisy telescope data are the same 
-skills that build reliable data pipelines. 
-Physics taught me to think in systems. 
-Industry taught me to ship them."*
+*"Inferring a stellar disk from noisy telescope data and producing a business forecast
+you can trust take the same discipline: build the model, quantify the uncertainty,
+and test it against data it never saw."*
