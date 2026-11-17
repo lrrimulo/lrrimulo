@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="banner.png"
+  <img src="[banner.png](https://media.licdn.com/dms/image/v2/D4E16AQGkZiyrYSXlaQ/profile-displaybackgroundimage-shrink_350_1400/B4EaHrLg_xHEAU-/0/1794947027289?e=1796256000&v=beta&t=wpSYm3_64WBp6IPgsa_kr5Sv5P38-jajw7aJ963fNFo)"
        width="800" height="300"
        alt="Leandro Rímulo - Data Scientist"/>
 </div>
